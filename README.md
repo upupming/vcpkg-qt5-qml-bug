@@ -6,7 +6,7 @@
 2. Install dependencies
 
     ```powershell
-    .\vcpkg.exe install opencv:x64-windows qt5:x64-windows
+    .\vcpkg.exe install qt5:x64-windows
     ```
 
 3. Configure and Build
